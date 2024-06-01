@@ -25,7 +25,7 @@ It will be a live map system on a monitor with a central server connecting to al
 - Analyse the severity of crimes committed and allocate manpower accordingly with the frequency.
 
 ## Video
-<Insert link>
+<https://www.youtube.com/watch?v=DL-BD2xY_ZU&ab_channel=WickedCoders>
   
 ## Contributors
 - @KWENN13
